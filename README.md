@@ -48,5 +48,5 @@ Encro.pair(340);
 **NOTE** The given argument must be a number
 
 # Please Read
-Take note that this compressor tested with a small amount of test kit.
+Take note that this compressor is tested with a small amount of test kit.
 There might be a bug which produce incorrect data.
